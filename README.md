@@ -1,7 +1,7 @@
 <h1>Hi, I'm Florencia 👋</h1>
 
 <p>
-Senior Computer Science and Information Engineering student from Paraguay 🇵🇾 at Universidad Politécnica Taiwán Paraguay, currently studying at National Taiwan University of Science and Technology 🇹🇼 as an exchange student.
+Senior Computer Science and Information Engineering student from Paraguay 🇵🇾 at Universidad Politécnica Taiwán Paraguay, currently studying my 4th year at National Taiwan University of Science and Technology 🇹🇼 as an exchange student.
 </p>
 
 <p>
