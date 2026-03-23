@@ -310,7 +310,7 @@ section {
 /* ABOUT SECTION */
 
 #about {
-  position: center;
+  position: relative;
 }
 
 .about-containers {
@@ -330,6 +330,7 @@ section {
 }
 
 .about-pic {
+  justify-content: center;
   border-radius: 2rem;
 }
 
