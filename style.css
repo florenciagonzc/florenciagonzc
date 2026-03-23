@@ -213,6 +213,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  width: 100%; /*added now*/
 }
 
 .section__text {
