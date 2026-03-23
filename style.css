@@ -210,11 +210,10 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   margin: auto 0;
   width: 100%; /*added now*/
-  border-radius: 4rem;
 }
 
 .section__text {
