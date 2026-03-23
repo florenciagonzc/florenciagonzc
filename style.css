@@ -218,7 +218,6 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
-  margin-left: 4rem; /*added now*/
 }
 
 .section__text p {
