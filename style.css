@@ -214,6 +214,7 @@ section {
   width: 400px;
   margin: auto 0;
   width: 100%; /*added now*/
+  border-radius: 4rem;
 }
 
 .section__text {
