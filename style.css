@@ -202,10 +202,17 @@ section {
 /* PROFILE SECTION */
 
 #profile {
-  display: flex;
+  /*display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 80vh;*/
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  justify-content: center;
+  align-items: center;    /* Keep text centered */
+  height: auto;           /* Let it shrink to fit the content */
+  min-height: 70vh;       /* Gives it some space without being excessive */
+  margin-top: 5rem;       /* Adds space below the nav instead */
 }
 
 .section__pic-container {
